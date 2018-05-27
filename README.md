@@ -43,11 +43,11 @@ To run these services, please follow below order
 
 | Service Name     | URL          |
 | -------- | -------------- |
-| Gateway service | http:localhost:8080/ |
-| Eureka service | http:localhost:9090/ |
-| Product service | http:localhost:8081/ |
-| Product Count service | http:localhost:8082/ |
-| Config service | http:localhost:8888/ |
+| Gateway service | http://localhost:8080/ |
+| Eureka service | http://localhost:9090/ |
+| Product service | http://localhost:8081/ |
+| Product Count service | http://localhost:8082/ |
+| Config service | http://localhost:8888/ |
 
 ---
 > Finally, to user, only one end point will be exposed as below
