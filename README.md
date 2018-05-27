@@ -61,5 +61,6 @@ To run these services, please follow below order
     To access Product Count Service, use http://localhost:8080/productcountservice/productcount/
 ````
 
-
+---
+> NOTE: Create a local directory for your configuration files of the microservice which will be picked by config server on its startup and mention its path in application.yaml of Config Service.
 
