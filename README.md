@@ -63,5 +63,7 @@ To run these services, please follow below order
 
 ---
 > NOTE: 
-```Create a local directory for your configuration files of the microservice which will be picked by config server on its startup and mention its path in application.yaml of Config Service.
+``` bash
+Create a local directory for your configuration files of the microservice which will be picked by config server 
+on its startup and mention its path in application.yaml of Config Service.
 ```
