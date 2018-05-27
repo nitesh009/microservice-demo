@@ -53,8 +53,13 @@ To run these services, please follow below order
 > Finally, to user, only one end point will be exposed as below
 ```` bash
     Gateway Service access http://localhost:8080/
+````
+```` bash
     To access Product Service, use http://localhost:8080/productservice/products/
+````
+```` bash
     To access Product Count Service, use http://localhost:8080/productcountservice/productcount/
 ````
+
 
 
